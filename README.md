@@ -82,6 +82,7 @@ php -S localhost:8001
 // public/index.html
 const API_URL = 'http://localhost:8001/src/api.php'; 
 ```
+---
 
 📝 Instruções de Uso
 
