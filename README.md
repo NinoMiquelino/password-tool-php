@@ -44,6 +44,18 @@ Este projeto é uma ferramenta full-stack que permite aos usuários gerar senhas
 * **Estilização:** Tailwind CSS (via CDN)
 
 --- 
+## 🧩 Estrutura do Projeto
+
+```
+password-tool-php/
+├── index.html
+├── api.php
+├── README.md
+├── .gitignore
+└── LICENSE
+```
+---
+
 
 ## ⚙️ Configuração e Instalação
 
