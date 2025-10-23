@@ -84,7 +84,7 @@ const API_URL = 'http://localhost:8001/src/api.php';
 ```
 ---
 
-📝 Instruções de Uso
+## 📝 Instruções de Uso
 
 ​O projeto está dividido em duas abas:
 ​1. Gerador de Senha
